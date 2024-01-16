@@ -10,5 +10,9 @@ git clone https://github.com/yousefshalby/grow-tech.git
 # install requirements
   - pip install -r requiremnts.txt
 
+# create .env
+  - SECRET_KEY=
+  - API_KEY(google maps)=
+
 # run project 
   - python3 manage.py runserver
